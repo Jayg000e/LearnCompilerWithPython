@@ -27,11 +27,11 @@ Implementation of LR-parsing algorithm described in the Dragon book Second Editi
 The algorithm description below, grammar and SLR table are all from the Dragon book Second Edition written by Alfred V. Abo, Monica S. Lam , Ravi Sethi and Jeffrey D. Ullman 
 
 
-![Alt text](LR0_algorithm.png)
+![Alt text](img/LR0_algorithm.png)
 
-![Alt text](grammar.png)
+![Alt text](img/grammar.png)
 
-![Alt text](SLR.png)
+![Alt text](img/SLR.png)
 
 
 
