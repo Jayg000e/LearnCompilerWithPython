@@ -6,7 +6,7 @@ Simple python examples of how compiler works. Have fun learning compiler with th
 
 
 
-An NFA that accepts (a|b)*abb. Note: The NFA implementation is more trickier than DFA.
+An NFA that accepts (a|b)*abb. Note: The NFA implementation is trickier than DFA.
 
 ![An NFA that accept (a|b)*abb](img/NFA.png)
 
