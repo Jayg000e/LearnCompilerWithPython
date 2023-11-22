@@ -18,5 +18,5 @@ A DFA that accepts (a|b)*abb
 
 ## TopDownParser.py
 
-A Top Down Parser for parsing input like $3+2*2+7*3$ and $3+2*(2+7)*3$
+A Top Down Parser for parsing input like \$3+2\*2+7\*3\$ and \$3+2\*(2+7)\*3\$
 
